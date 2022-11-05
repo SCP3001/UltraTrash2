@@ -262,6 +262,15 @@ body{
 .about-game{
     font-size:25px;
     font-weight:700;
+    color:white;
+}
+.list1 , .list2{
+    color:white;
+}
+.caution{
+    background-color: #000;
+    padding:20px;
+    border:yellow dashed 5px;
 }
 .bottom{
     border-top:2px solid white;
